@@ -5,7 +5,7 @@ import { getAppProps } from '../utils/getAppProps';
 export default function Success() {
   return (
     <div>
-      <h1>Gracias por tu compra!</h1>
+      <h1>Thanks for your buy</h1>
     </div>
   );
 }

@@ -10,9 +10,10 @@ export default function Home() {
       <div className="relative z-10 text-white px-10 py-5 text-center max-w-screen-sm bg-slate-900/90 rounded-md backdrop-blur-sm">
         <Logo />
         <p>
-          La solución SAAS impulsada por la IA para generar publicaciones de
-          blog optimizadas para SEO en minutos. Obtén contenido de alta calidad,
-          sin sacrificar tu tiempo.
+        The AI-powered SAAS solution for generating posts from
+        SEO optimized blog in minutes. Get high quality content,
+          without sacrificing your time.
+         
         </p>
         <Link href="/post/new" className="btn">
           Comenzar
